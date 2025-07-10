@@ -1,0 +1,18 @@
+﻿table.mygridview
+{
+	color: #000099;
+}
+table.mygridview th
+{
+	font-weight: bold;
+	color:#006600;
+	font-size:1.1em;
+}
+table.mygridview td
+{
+	font-size: 1em;
+	padding: 3px;
+}
+table.mygridview td:nth-child(2){
+	text-align:right;
+}
